@@ -1,5 +1,3 @@
-# calculadora-Assembly-8086
-
 # Introdução
 ```
 Este projeto foi desenvolvido no segundo semestre na disciplina de Organização de Computadores e Linguagem de Montagem(OCLM).
