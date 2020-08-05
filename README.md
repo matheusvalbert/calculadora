@@ -1,7 +1,7 @@
 # Introdução
 ```
 Este projeto foi desenvolvido no segundo semestre na disciplina de Organização de Computadores e Linguagem de Montagem(OCLM).
-O seu objetivo é criar uma "Calculadora" em Assembly x86 que realiza as seguintes funções:
+O seu objetivo é criar uma "Calculadora" em Assembly 8086 que realiza as seguintes funções:
 - AND
 - OR
 - XOR
